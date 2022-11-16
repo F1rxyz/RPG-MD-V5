@@ -33,7 +33,7 @@ global.sgh = 'https://github.com/firxyz'
 global.sgc = 'https://chat.whatsapp.com/HAZfUAeDbNH33IrL'
 global.swa = 'wa.me/6285806459088'
 global.swb = 'https://'
-global.snh = 'https://nhentai.net/g/36l296/' //Make ini aja gausah di ganti.
+global.snh = 'https://nhentai.net/g/296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
 global.pdana = '6285806459088'
@@ -56,7 +56,7 @@ global.owner = [
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['6283876475563'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -115,16 +115,16 @@ global.ultahowner = '28-7-2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://ibb.co/qRVFjgf' //Main Thumbnail
+global.thumb = 'https://ibb.co/qRVjgf' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
 global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
 global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
+global.thumbBanned = 'https://telegraph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.botintro = 'Hallo, Kenalin saya SevenNight BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro = 'https://telegra.ph/file/ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'SevenNightラ'
 global.umurowner = '14'
